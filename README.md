@@ -2,6 +2,8 @@
 
 This project is a simple machine learning application that predicts the species of an Iris flower (Setosa, Versicolor, or Virginica) based on user-input sepal and petal measurements. It uses a **K-Nearest Neighbors (KNN)** classifier and logistic regression is deployed using **Gradio**, allowing for an interactive web interface.
 
+project link: https://0d705340178129af47.gradio.live/
+
 ## 🧠 Technologies Used
 - Python
 - Scikit-learn
